@@ -1,0 +1,15 @@
+Microsoft Windows [Version 10.0.22631.5624]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\LOQ>D:
+
+D:\>cd "Praktikum Struktur Data dan Algoritma"
+
+D:\Praktikum Struktur Data dan Algoritma>git clone https://github.com/ZahwaAqiilah01/2025573010066_strukturdataalgoritma.git
+Cloning into '2025573010066_strukturdataalgoritma'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+
+D:\Praktikum Struktur Data dan Algoritma>
