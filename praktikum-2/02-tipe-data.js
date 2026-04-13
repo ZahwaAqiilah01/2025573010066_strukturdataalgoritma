@@ -24,7 +24,6 @@ console.log('Suhu Kulkas:', suhuKulkas);
 // --- 3. BOOLEAN (true / false) ---
 let sudahLogin = true;
 let sudahLulus = false;
-
 console.log('Sudah login :', sudahLogin);
 console.log('Sudah lulus :', sudahLulus);
 
