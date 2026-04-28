@@ -24,5 +24,6 @@ const tahunMasuk = 2023;
 console.log('Jurusan    :', jurusan);
 console.log('Tahun Masuk:', tahunMasuk);
 
+
 // --- Coba hapus '//' di baris bawah ini, lalu jalankan ulang ---
 // jurusan = 'Sistem Informasi'; // --> ini akan menyebabkan ERROR!
